@@ -7,8 +7,4 @@
 - Options for send and loan money.
 - Closing account option
 
-(Users for test)
-USER      PIN
-js        1111
-jd        2222
-ss        4444
+(Users for test: js -> 1111, jd -> 2222, ss -> 4444)
